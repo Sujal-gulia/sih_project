@@ -1,0 +1,795 @@
+DESCRIPTION,TYPE,CATEGORY,DESCRIPTION1,SEVERITY1,DESCRIPTION2,SEVERITY2
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,Sneezing,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,,,,
+Cow's milk (substance),allergy,food,Finding of vomiting (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,Diarrhea (finding),MILD
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MODERATE
+Cow's milk (substance),allergy,food,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,,,,
+Shellfish (substance),allergy,food,Eruption of skin (disorder),MODERATE,Dyspnea (finding),MILD
+Mold (organism),allergy,environment,Nose running,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Tree pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
+Cow's milk (substance),allergy,food,Diarrhea (finding),MILD,,
+Aspirin,allergy,medication,,,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Nausea (finding),MODERATE
+cefdinir,allergy,medication,Wheal (finding),MODERATE,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,,,,
+Wheat (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Eruption of skin (disorder),MODERATE,Dyspnea (finding),MILD
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Eruption of skin (disorder),MILD
+Mold (organism),allergy,environment,Wheezing,MILD,Nose running,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Nausea (finding),MODERATE
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Rhinoconjunctivitis (disorder),MILD
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Eruption of skin (disorder),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,Diarrhea (finding),MILD
+Wheat (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Cough (finding),MODERATE,Wheal (finding),MODERATE
+Latex (substance),allergy,environment,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Wheal (finding),MILD,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Diarrhea (finding),MILD,Wheal (finding),MILD
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MILD
+Lisinopril,intolerance,medication,,,,
+Ibuprofen,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE,,
+Mold (organism),allergy,environment,,,,
+Aspirin,allergy,medication,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Mold (organism),allergy,environment,,,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Eruption of skin (disorder),MILD
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MODERATE
+Shellfish (substance),allergy,food,Dyspnea (finding),MILD,Cough (finding),MILD
+Aspirin,allergy,medication,,,,
+Mold (organism),allergy,environment,Wheezing,MILD,Nose running,MILD
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Dyspnea (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,Dyspnea (finding),MILD
+Eggs (edible) (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Shellfish (substance),allergy,food,Nausea (finding),MODERATE,Eruption of skin (disorder),MODERATE
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Finding of vomiting (finding),MILD
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Wheat (substance),allergy,food,,,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,Nose running,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,Allergic angioedema (disorder),MILD
+Shellfish (substance),allergy,food,Nausea (finding),MODERATE,Cough (finding),MILD
+Mold (organism),allergy,environment,,,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Sneezing,MILD,Allergic skin rash,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Wheal (finding),MILD,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Soya bean (substance),allergy,food,Diarrhea (finding),MILD,,
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MODERATE
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Wheezing (finding),MILD
+Latex (substance),allergy,environment,Allergic angioedema (disorder),MODERATE,Wheal (finding),MILD
+Mold (organism),allergy,environment,Sneezing,MILD,Nose running,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Latex (substance),allergy,environment,Dyspnea (finding),MODERATE,Wheal (finding),MILD
+Mold (organism),allergy,environment,Sneezing,MILD,Nose running,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Diarrhea (finding),MILD,Wheal (finding),MILD
+Eggs (edible) (substance),allergy,food,,,,
+Wheat (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Nausea (finding),MODERATE
+Latex (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Eruption of skin (disorder),MILD
+Peanut (substance),allergy,food,Dyspnea (finding),MILD,Wheezing (finding),MILD
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,,
+Eggs (edible) (substance),allergy,food,Allergic angioedema (disorder),MODERATE,,
+Wheat (substance),allergy,food,,,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Lisinopril,intolerance,medication,,,,
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Wheezing (finding),MILD,,
+Eggs (edible) (substance),allergy,food,,,,
+Mold (organism),allergy,environment,Sneezing,MILD,Nose running,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,,,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Lisinopril,intolerance,medication,Cough (finding),MODERATE,Drug-induced hyperkalemia (disorder),MODERATE
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Peanut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
+Wheat (substance),allergy,food,,,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Finding of vomiting (finding),MILD
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+cefdinir,allergy,medication,Eruption of skin (disorder),MODERATE,,
+Aspirin,allergy,medication,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Latex (substance),allergy,environment,Itching (finding),MODERATE,Wheal (finding),MILD
+Mold (organism),allergy,environment,Wheezing,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,,,,
+Peanut (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Cough (finding),MILD
+Mold (organism),allergy,environment,Sneezing,MILD,Allergic skin rash,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Wheat (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Latex (substance),allergy,environment,,,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Eruption of skin (disorder),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Diarrhea (finding),MILD
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Eruption of skin (disorder),MILD
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Wheal (finding),MILD
+Wheat (substance),allergy,food,,,,
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,Wheezing,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Fish (substance),allergy,food,Eruption of skin (disorder),MILD,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MODERATE
+Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,Wheal (finding),MILD
+Peanut (substance),allergy,food,,,,
+Latex (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Wheal (finding),MILD,,
+Eggs (edible) (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Rhinoconjunctivitis (disorder),MILD
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MODERATE
+Mold (organism),allergy,environment,,,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Dyspnea (finding),MILD
+Peanut (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MILD
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Eruption of skin (disorder),MILD
+Mold (organism),allergy,environment,Sneezing,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Tree pollen (substance),allergy,environment,,,,
+Penicillin V,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE,Dyspnea (finding),MILD
+Mold (organism),allergy,environment,,,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Finding of vomiting (finding),MODERATE,,
+Soya bean (substance),allergy,food,,,,
+Wheat (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Latex (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,Dyspnea (finding),MILD
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,Diarrhea (finding),MILD
+Eggs (edible) (substance),allergy,food,,,,
+Wheat (substance),allergy,food,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,,,,
+Eggs (edible) (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Peanut (substance),allergy,food,Eruption of skin (disorder),MILD,Finding of vomiting (finding),MILD
+Latex (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+cefdinir,allergy,medication,Anaphylaxis (disorder),SEVERE,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Rhinoconjunctivitis (disorder),MILD
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Latex (substance),allergy,environment,Wheal (finding),MILD,Rhinoconjunctivitis (disorder),MILD
+Mold (organism),allergy,environment,Sneezing,MILD,Allergic skin rash,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Eruption of skin (disorder),MODERATE,Cough (finding),MILD
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Animal dander (substance),allergy,environment,Wheal (finding),MILD,Eruption of skin (disorder),MILD
+Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,Wheal (finding),MILD
+Peanut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
+Latex (substance),allergy,environment,Rhinoconjunctivitis (disorder),MILD,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Dyspnea (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Nausea (finding),MODERATE
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Tree pollen (substance),allergy,environment,,,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Rhinoconjunctivitis (disorder),MILD
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Dyspnea (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Sulfamethoxazole / Trimethoprim,allergy,medication,Eruption of skin (disorder),MODERATE,Wheal (finding),MODERATE
+Cow's milk (substance),allergy,food,Wheal (finding),MILD,,
+Lisinopril,intolerance,medication,,,,
+Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,Wheal (finding),MILD
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,,
+Wheat (substance),allergy,food,,,,
+House dust mite (organism),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Shellfish (substance),allergy,food,Nausea (finding),MODERATE,Eruption of skin (disorder),MODERATE
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,Nose running,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Tree pollen (substance),allergy,environment,,,,
+Penicillin V,allergy,medication,Dizziness (finding),MILD,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
+Wheat (substance),allergy,food,,,,
+Latex (substance),allergy,environment,Allergic angioedema (disorder),MODERATE,Wheal (finding),MILD
+Mold (organism),allergy,environment,Sneezing,MILD,Allergic skin rash,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Wheal (finding),MILD,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Penicillin V,allergy,medication,Wheal (finding),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+cefdinir,allergy,medication,Anaphylaxis (disorder),SEVERE,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MODERATE
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Wheezing,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Tree pollen (substance),allergy,environment,,,,
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,Diarrhea (finding),MILD
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Peanut (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Dyspnea (finding),MILD
+Wheat (substance),allergy,food,,,,
+Mold (organism),allergy,environment,Sneezing,MILD,Allergic skin rash,MILD
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Wheat (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MODERATE
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Nausea (finding),MODERATE
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Wheezing,MILD,Allergic skin rash,MILD
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Latex (substance),allergy,environment,,,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,Nose running,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Eruption of skin (disorder),MODERATE,Wheal (finding),MILD
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Eruption of skin (disorder),MILD
+Latex (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,,,,
+Eggs (edible) (substance),allergy,food,,,,
+Wheat (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Penicillin V,allergy,medication,Cough (finding),MODERATE,Allergic angioedema (disorder),MILD
+Soya bean (substance),allergy,food,,,,
+Peanut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
+Eggs (edible) (substance),allergy,food,,,,
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Wheat (substance),allergy,food,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Sulfamethoxazole / Trimethoprim,allergy,medication,,,,
+Fish (substance),allergy,food,Rhinoconjunctivitis (disorder),MILD,Eruption of skin (disorder),MILD
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Nose running,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+cefdinir,allergy,medication,Anaphylaxis (disorder),SEVERE,,
+Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Aspirin,allergy,medication,,,,
+Wheat (substance),allergy,food,,,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Finding of vomiting (finding),MILD
+cefdinir,allergy,medication,Anaphylaxis (disorder),SEVERE,,
+Mold (organism),allergy,environment,Sneezing,MILD,Wheezing,MILD
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MODERATE
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MILD
+Wheat (substance),allergy,food,,,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Sneezing,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Eruption of skin (disorder),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
+Cow's milk (substance),allergy,food,Finding of vomiting (finding),MODERATE,Wheal (finding),MILD
+Wheat (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Eruption of skin (disorder),MODERATE,Dyspnea (finding),MILD
+Fish (substance),allergy,food,Rhinoconjunctivitis (disorder),MILD,Eruption of skin (disorder),MILD
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Wheezing (finding),MILD
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,Wheal (finding),MILD
+Fish (substance),allergy,food,Rhinoconjunctivitis (disorder),MILD,Eruption of skin (disorder),MILD
+Mold (organism),allergy,environment,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Nausea (finding),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Wheat (substance),allergy,food,,,,
+Lisinopril,intolerance,medication,,,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MODERATE
+Lisinopril,intolerance,medication,Cough (finding),MODERATE,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Rhinoconjunctivitis (disorder),MILD
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,Nose running,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MILD
+Tree pollen (substance),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Mold (organism),allergy,environment,,,,
+Wheat (substance),allergy,food,,,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Lisinopril,intolerance,medication,,,,
+Aspirin,allergy,medication,,,,
+Penicillin V,allergy,medication,Wheal (finding),MILD,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Rhinoconjunctivitis (disorder),MILD
+Aspirin,allergy,medication,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Sulfamethoxazole / Trimethoprim,allergy,medication,Eruption of skin (disorder),MODERATE,Wheal (finding),MODERATE
+Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Latex (substance),allergy,environment,,,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Eruption of skin (disorder),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Fish (substance),allergy,food,Finding of vomiting (finding),MILD,Eruption of skin (disorder),MILD
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Wheal (finding),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Fish (substance),allergy,food,Eruption of skin (disorder),MILD,,
+Animal dander (substance),allergy,environment,,,,
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Eruption of skin (disorder),MODERATE
+Aspirin,allergy,medication,,,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Aspirin,allergy,medication,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Finding of vomiting (finding),MODERATE,Wheal (finding),MILD
+Wheat (substance),allergy,food,,,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Bee venom (substance),allergy,environment,,,,
+Lisinopril,intolerance,medication,,,,
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Sulfamethoxazole / Trimethoprim,allergy,medication,Eruption of skin (disorder),MODERATE,,
+Fish (substance),allergy,food,Finding of vomiting (finding),MILD,Rhinoconjunctivitis (disorder),MILD
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+Wheat (substance),allergy,food,,,,
+Penicillin V,allergy,medication,,,,
+Eggs (edible) (substance),allergy,food,Anaphylaxis (disorder),SEVERE,,
+Mold (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Eggs (edible) (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Eruption of skin (disorder),MILD
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
+Eggs (edible) (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Nausea (finding),MODERATE,Eruption of skin (disorder),MODERATE
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Nose running,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MODERATE
+Mold (organism),allergy,environment,Sneezing,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,,,,
+Cow's milk (substance),allergy,food,Wheal (finding),MILD,,
+Soya bean (substance),allergy,food,Finding of vomiting (finding),MODERATE,Diarrhea (finding),MILD
+Fish (substance),allergy,food,Rhinoconjunctivitis (disorder),MILD,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Nausea (finding),MODERATE
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Peanut (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MILD
+Animal dander (substance),allergy,environment,Wheal (finding),MILD,,
+Aspirin,allergy,medication,,,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Sulfamethoxazole / Trimethoprim,allergy,medication,Eruption of skin (disorder),MODERATE,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Cough (finding),MILD
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Wheat (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Eruption of skin (disorder),MODERATE,Diarrhea (finding),MILD
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Peanut (substance),allergy,food,Dyspnea (finding),MILD,,
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Tree pollen (substance),allergy,environment,,,,
+Soya bean (substance),allergy,food,Diarrhea (finding),MILD,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Wheal (finding),MODERATE
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MODERATE
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+Animal dander (substance),allergy,environment,Wheal (finding),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Finding of vomiting (finding),MILD
+Peanut (substance),allergy,food,Dyspnea (finding),MILD,Finding of vomiting (finding),MILD
+Latex (substance),allergy,environment,Allergic angioedema (disorder),MODERATE,Wheal (finding),MILD
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Shellfish (substance),allergy,food,Nausea (finding),MODERATE,Eruption of skin (disorder),MODERATE
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Dyspnea (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,,,,
+Fish (substance),allergy,food,Finding of vomiting (finding),MILD,Rhinoconjunctivitis (disorder),MILD
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Latex (substance),allergy,environment,Allergic angioedema (disorder),MODERATE,Wheal (finding),MILD
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Dyspnea (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Penicillin V,allergy,medication,,,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Eruption of skin (disorder),MILD
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Mold (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Soya bean (substance),allergy,food,Diarrhea (finding),MILD,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MODERATE
+Latex (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Sneezing,MILD,Allergic skin rash,MILD
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
+Penicillin V,allergy,medication,Eruption of skin (disorder),MILD,Allergic angioedema (disorder),MILD
+Wheat (substance),allergy,food,,,,
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Allergic angioedema (disorder),MODERATE
+Penicillin V,allergy,medication,Rhinoconjunctivitis (disorder),MODERATE,Allergic angioedema (disorder),MILD
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Eruption of skin (disorder),MODERATE
+Latex (substance),allergy,environment,Itching (finding),MODERATE,Dyspnea (finding),MODERATE
+Mold (organism),allergy,environment,Nose running,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Eruption of skin (disorder),MILD
+Tree nut (substance),allergy,food,Wheal (finding),MODERATE,Dyspnea (finding),MODERATE
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Eruption of skin (disorder),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Eruption of skin (disorder),MODERATE,Wheal (finding),MODERATE
+Peanut (substance),allergy,food,Wheal (finding),MODERATE,Allergic angioedema (disorder),MODERATE
+Soya bean (substance),allergy,food,,,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,Rhinoconjunctivitis (disorder),MILD
+Bee venom (substance),allergy,environment,,,,
+Mold (organism),allergy,environment,Nose running,MILD,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Eruption of skin (disorder),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Wheat (substance),allergy,food,,,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,,,,
+Fish (substance),allergy,food,Eruption of skin (disorder),MILD,,
+Aspirin,allergy,medication,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Nausea (finding),MODERATE
+Latex (substance),allergy,environment,,,,
+Aspirin,allergy,medication,,,,
+Mold (organism),allergy,environment,,,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Finding of vomiting (finding),MILD
+Latex (substance),allergy,environment,Itching (finding),MODERATE,Wheal (finding),MILD
+Bee venom (substance),allergy,environment,Eruption of skin (disorder),MODERATE,,
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Cow's milk (substance),allergy,food,Wheal (finding),MILD,,
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Rhinoconjunctivitis (disorder),MILD
+Mold (organism),allergy,environment,Sneezing,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Eruption of skin (disorder),MILD,,
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Lisinopril,intolerance,medication,Cough (finding),MODERATE,,
+Penicillin V,allergy,medication,Cough (finding),MODERATE,Allergic angioedema (disorder),MILD
+Cow's milk (substance),allergy,food,Wheal (finding),MILD,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Mold (organism),allergy,environment,,,,
+Aspirin,allergy,medication,,,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,,,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Lisinopril,intolerance,medication,,,,
+Cow's milk (substance),allergy,food,Diarrhea (finding),MILD,Wheal (finding),MILD
+Mold (organism),allergy,environment,Allergic skin rash,MILD,,
+House dust mite (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Cough (finding),MODERATE,Rhinoconjunctivitis (disorder),MODERATE
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Aspirin,allergy,medication,Abdominal pain (finding),MODERATE,,
+Soya bean (substance),allergy,food,,,,
+Eggs (edible) (substance),allergy,food,,,,
+Latex (substance),allergy,environment,Wheal (finding),MILD,,
+Mold (organism),allergy,environment,,,,
+Animal dander (substance),allergy,environment,Rhinoconjunctivitis (disorder),MODERATE,Wheal (finding),MILD
+Grass pollen (substance),allergy,environment,,,,
+Tree pollen (substance),allergy,environment,,,,
+Wheat (substance),allergy,food,,,,
+Shellfish (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Diarrhea (finding),MILD
+Fish (substance),allergy,food,Dyspnea (finding),MODERATE,Finding of vomiting (finding),MILD
+Tree nut (substance),allergy,food,Anaphylaxis (disorder),SEVERE,Cough (finding),MODERATE
+Aspirin,allergy,medication,Wheal (finding),MODERATE,,
+Eggs (edible) (substance),allergy,food,Wheal (finding),MODERATE,,
+Aspirin,allergy,medication,,,,
+Shellfish (substance),allergy,food,Allergic angioedema (disorder),MODERATE,Nausea (finding),MODERATE
